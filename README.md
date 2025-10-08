@@ -47,7 +47,7 @@
 <a href="https://t.me/IvalexAnna"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:ivalex.anna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
-С английской версией README можно ознакомиться:
+English version available:
 <a href="https://github.com/IvalexAnna/IvalexAnna_Eng/blob/main/README.md"><img src="https://img.shields.io/badge/English-4285F4?style=flat&logo=google&logoColor=white" alt="English README" /></a>
 
 Открыта к сотрудничеству и интересным задачам. 🚀
