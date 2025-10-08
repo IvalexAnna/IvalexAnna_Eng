@@ -1,5 +1,4 @@
-# IvalexAnna_Eng<div align="center">
-  <h1>Anna Ivanova</h1>
+ <h1>Anna Ivanova</h1>
   <p><strong>Python Backend Developer</strong></p>
   <p><em>"Every line of code is a step towards solving real problems."</em></p>
 
