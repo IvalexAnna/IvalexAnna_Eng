@@ -16,6 +16,7 @@
 
 ### 🔥 My Projects
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" alt="Django" /> <strong>Django DRF</strong>: REST API creation, authentication, pagination, filters
+  - https://github.com/DelovReshBack/Delov_Resh_Back
   - https://github.com/IvalexAnna/Social_network
   - https://github.com/IvalexAnna/taski
   - https://github.com/IvalexAnna/Grocery_assistant
